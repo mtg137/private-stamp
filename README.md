@@ -1,1 +1,1 @@
-# private-stamp
+# Private-proof-of-existence
