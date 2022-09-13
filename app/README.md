@@ -1,7 +1,24 @@
-# PrivateStamp
+# app
 
-## A serverless private proof-of-existence DApp.
+## Project setup
+```
+yarn install
+```
 
-### Technologies used:
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
 
-Solidity, Truffle, IPFS, Javascript, Web Crypto API, Vue, Vuetify
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
