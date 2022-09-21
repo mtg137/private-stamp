@@ -1,7 +1,7 @@
 {
-	"name": "app",
+	"name": "private-stamp",
 	"version": "0.1.0",
-	"private": true,
+	"private": false,
 	"scripts": {
 		"serve": "vue-cli-service serve",
 		"build": "vue-cli-service build",
@@ -11,7 +11,7 @@
 		"@drizzle/vue-plugin": "^0.1.1",
 		"core-js": "^3.4.4",
 		"drizzle": "^1.4.0",
-		"ipfs": "^0.40.0",
+		"ipfs": "^0.50.2",
 		"vue": "^2.6.10",
 		"vue-clipboard2": "^0.3.1",
 		"vue-toasted": "^1.1.27",
